@@ -1,2 +1,1 @@
-# PageSC
-PageSC
+# Proyecto
